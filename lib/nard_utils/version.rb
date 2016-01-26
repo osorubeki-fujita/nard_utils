@@ -1,3 +1,5 @@
-module NardUtils
-  VERSION = "0.1.0"
+module Nard
+  module Utils
+    VERSION = "0.1.0"
+  end
 end
